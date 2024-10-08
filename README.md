@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afif Ayoubi</h1>
 <h3 align="center">Software Engineer with a Passion for Crafting Elegant Solutions"</h3>
 
-- 🔭 I’m currently working on **Clever Karma**
-
 - 💬 Ask me about **Web Development, Mobile Development and IOT**
 
 - 📫 How to reach me **afif.alayoubi@gmail.com**
